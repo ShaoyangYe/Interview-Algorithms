@@ -9,7 +9,7 @@ A Sorting algorithm is:
 ## Selection Sort
 While running time is quadratic, selection sort makes only about __n exchanges__
 
-Selection sort is a good algorithm for sorting small collections of large records.
+Selection sort is a good algorithm for sorting small collections of large records. (Good for small n)
 
 makes only about n exchanges.
 
@@ -18,3 +18,7 @@ ___In-place? Yes___
 ___Stable? Not stable___
 
 ___Input-insensitive? Yes___
+
+__Best Time Complexity: O(n^2)__
+
+__Worst Time Complexity: O(n^2)__
