@@ -2,6 +2,19 @@
 
 ## Properties of   Sorting Algorithms
 A Sorting algorithm is:
-* __in-place__ if it does not require additional memory except, perhaps, for a few units of memory
-* __stable__ if it preserves the relative order of elements with identical keys
-* __input-insensitive__ if its running time is fairly independent of input properties other than size
+* __In-place__ if it does not require additional memory except, perhaps, for a few units of memory
+* __Stable__ if it preserves the relative order of elements with identical keys
+* __Input-insensitive__ if its running time is fairly independent of input properties other than size
+
+## Selection Sort
+While running time is quadratic, selection sort makes only about __n exchanges__
+
+Selection sort is a good algorithm for sorting small collections of large records.
+
+makes only about n exchanges.
+
+___In-place? Yes___
+
+___Stable? Not stable___
+
+___Input-insensitive? Yes___
